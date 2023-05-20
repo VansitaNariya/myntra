@@ -7,23 +7,53 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D332350A2A08B700004ABB6A /* tabbarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D33235092A08B700004ABB6A /* tabbarController.swift */; };
+		D332350C2A08BDB7004ABB6A /* Mainpage1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D332350B2A08BDB7004ABB6A /* Mainpage1.swift */; };
 		D362112029F2769D0053B57B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D362111F29F2769D0053B57B /* AppDelegate.swift */; };
 		D362112229F2769D0053B57B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D362112129F2769D0053B57B /* SceneDelegate.swift */; };
-		D362112429F2769D0053B57B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D362112329F2769D0053B57B /* ViewController.swift */; };
 		D362112729F2769D0053B57B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D362112529F2769D0053B57B /* Main.storyboard */; };
 		D362112929F276A00053B57B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D362112829F276A00053B57B /* Assets.xcassets */; };
 		D362112C29F276A00053B57B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D362112A29F276A00053B57B /* LaunchScreen.storyboard */; };
+		D36947BA1EC6E641007787C3 /* categories.swift in Sources */ = {isa = PBXBuildFile; fileRef = D36947B91EC6E641007787C3 /* categories.swift */; };
+		D36AA10129F3B2E400806034 /* homepageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D36AA10029F3B2E400806034 /* homepageViewController.swift */; };
+		D36AA10529F3BF5600806034 /* loginpage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D36AA10429F3BF5600806034 /* loginpage.swift */; };
+		D3A7CE4D2A134876004599F7 /* collectionView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3A7CE4C2A134876004599F7 /* collectionView1.swift */; };
+		D3A7CE4F2A134915004599F7 /* CollectionViewCell1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3A7CE4E2A134915004599F7 /* CollectionViewCell1.swift */; };
+		D3A9C8E72A18BB3700D3A59E /* collectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3A9C8E62A18BB3700D3A59E /* collectionView.swift */; };
+		D3AAA2E52B42B3F100C317B7 /* mainPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3AAA2E42B42B3F100C317B7 /* mainPage.swift */; };
+		D3AB0A9F29F674A7005DFEB4 /* otpPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3AB0A9E29F674A7005DFEB4 /* otpPage.swift */; };
+		D3AB0AA429F67B96005DFEB4 /* dpotp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3AB0AA329F67B94005DFEB4 /* dpotp.swift */; };
+		D3AE48FE2A0CBB7E00CF9B44 /* beauty.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3AE48FD2A0CBB7E00CF9B44 /* beauty.swift */; };
+		D3D5D4FF2A15FCAC00A4DD7C /* CollectionViewCell2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3D5D4FE2A15FCAC00A4DD7C /* CollectionViewCell2.swift */; };
+		D3D5D5012A160AE500A4DD7C /* CollectionViewCell3.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3D5D5002A160AE500A4DD7C /* CollectionViewCell3.swift */; };
+		D3F6D7C12A04D31300A1F4D8 /* DPOTPView in Frameworks */ = {isa = PBXBuildFile; productRef = D3F6D7C02A04D31300A1F4D8 /* DPOTPView */; };
+		D3F6D7C32A04D49D00A1F4D8 /* fashionPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3F6D7C22A04D49D00A1F4D8 /* fashionPage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D33235092A08B700004ABB6A /* tabbarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tabbarController.swift; sourceTree = "<group>"; };
+		D332350B2A08BDB7004ABB6A /* Mainpage1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mainpage1.swift; sourceTree = "<group>"; };
 		D362111C29F2769D0053B57B /* myntra.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myntra.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D362111F29F2769D0053B57B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D362112129F2769D0053B57B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		D362112329F2769D0053B57B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D362112629F2769D0053B57B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D362112829F276A00053B57B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D362112B29F276A00053B57B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D362112D29F276A00053B57B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D36947B91EC6E641007787C3 /* categories.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = categories.swift; sourceTree = "<group>"; };
+		D36AA10029F3B2E400806034 /* homepageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = homepageViewController.swift; sourceTree = "<group>"; };
+		D36AA10429F3BF5600806034 /* loginpage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loginpage.swift; sourceTree = "<group>"; };
+		D36B0BBB1EB8539C00058511 /* myntra.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = myntra.entitlements; sourceTree = "<group>"; };
+		D3A7CE4C2A134876004599F7 /* collectionView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = collectionView1.swift; sourceTree = "<group>"; };
+		D3A7CE4E2A134915004599F7 /* CollectionViewCell1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell1.swift; sourceTree = "<group>"; };
+		D3A9C8E62A18BB3700D3A59E /* collectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = collectionView.swift; path = "../../../../../Library/Developer/Xcode/DerivedData/myntra-glhgkekzvjawjhestrtxdkrghyfd/SourcePackages/checkouts/DPOTPView/collectionView.swift"; sourceTree = "<group>"; };
+		D3AAA2E42B42B3F100C317B7 /* mainPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mainPage.swift; sourceTree = "<group>"; };
+		D3AB0A9E29F674A7005DFEB4 /* otpPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = otpPage.swift; sourceTree = "<group>"; };
+		D3AB0AA329F67B94005DFEB4 /* dpotp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dpotp.swift; sourceTree = "<group>"; };
+		D3AE48FD2A0CBB7E00CF9B44 /* beauty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = beauty.swift; sourceTree = "<group>"; };
+		D3D5D4FE2A15FCAC00A4DD7C /* CollectionViewCell2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell2.swift; sourceTree = "<group>"; };
+		D3D5D5002A160AE500A4DD7C /* CollectionViewCell3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell3.swift; sourceTree = "<group>"; };
+		D3F6D7C22A04D49D00A1F4D8 /* fashionPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fashionPage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +61,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D3F6D7C12A04D31300A1F4D8 /* DPOTPView in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,8 +71,18 @@
 		D362111329F2769C0053B57B = {
 			isa = PBXGroup;
 			children = (
+				D3A9C8E62A18BB3700D3A59E /* collectionView.swift */,
+				D36947B91EC6E641007787C3 /* categories.swift */,
+				D3D5D5002A160AE500A4DD7C /* CollectionViewCell3.swift */,
+				D3D5D4FE2A15FCAC00A4DD7C /* CollectionViewCell2.swift */,
+				D3A7CE4E2A134915004599F7 /* CollectionViewCell1.swift */,
+				D3A7CE4C2A134876004599F7 /* collectionView1.swift */,
+				D3AE48FD2A0CBB7E00CF9B44 /* beauty.swift */,
+				D3F6D7C22A04D49D00A1F4D8 /* fashionPage.swift */,
+				D3AAA2E42B42B3F100C317B7 /* mainPage.swift */,
 				D362111E29F2769D0053B57B /* myntra */,
 				D362111D29F2769D0053B57B /* Products */,
+				D36B0BB81EB8518A00058511 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,15 +97,28 @@
 		D362111E29F2769D0053B57B /* myntra */ = {
 			isa = PBXGroup;
 			children = (
+				D36B0BBB1EB8539C00058511 /* myntra.entitlements */,
 				D362111F29F2769D0053B57B /* AppDelegate.swift */,
 				D362112129F2769D0053B57B /* SceneDelegate.swift */,
-				D362112329F2769D0053B57B /* ViewController.swift */,
 				D362112529F2769D0053B57B /* Main.storyboard */,
+				D332350B2A08BDB7004ABB6A /* Mainpage1.swift */,
+				D33235092A08B700004ABB6A /* tabbarController.swift */,
+				D3AB0A9E29F674A7005DFEB4 /* otpPage.swift */,
+				D36AA10429F3BF5600806034 /* loginpage.swift */,
+				D36AA10029F3B2E400806034 /* homepageViewController.swift */,
+				D3AB0AA329F67B94005DFEB4 /* dpotp.swift */,
 				D362112829F276A00053B57B /* Assets.xcassets */,
 				D362112A29F276A00053B57B /* LaunchScreen.storyboard */,
 				D362112D29F276A00053B57B /* Info.plist */,
 			);
 			path = myntra;
+			sourceTree = "<group>";
+		};
+		D36B0BB81EB8518A00058511 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +137,9 @@
 			dependencies = (
 			);
 			name = myntra;
+			packageProductDependencies = (
+				D3F6D7C02A04D31300A1F4D8 /* DPOTPView */,
+			);
 			productName = myntra;
 			productReference = D362111C29F2769D0053B57B /* myntra.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +168,9 @@
 				Base,
 			);
 			mainGroup = D362111329F2769C0053B57B;
+			packageReferences = (
+				D3F6D7BF2A04D31300A1F4D8 /* XCRemoteSwiftPackageReference "DPOTPView" */,
+			);
 			productRefGroup = D362111D29F2769D0053B57B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -138,9 +198,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D362112429F2769D0053B57B /* ViewController.swift in Sources */,
+				D36AA10129F3B2E400806034 /* homepageViewController.swift in Sources */,
+				D36947BA1EC6E641007787C3 /* categories.swift in Sources */,
+				D332350C2A08BDB7004ABB6A /* Mainpage1.swift in Sources */,
+				D3F6D7C32A04D49D00A1F4D8 /* fashionPage.swift in Sources */,
+				D3D5D4FF2A15FCAC00A4DD7C /* CollectionViewCell2.swift in Sources */,
+				D3D5D5012A160AE500A4DD7C /* CollectionViewCell3.swift in Sources */,
+				D332350A2A08B700004ABB6A /* tabbarController.swift in Sources */,
+				D3A7CE4D2A134876004599F7 /* collectionView1.swift in Sources */,
+				D3A9C8E72A18BB3700D3A59E /* collectionView.swift in Sources */,
+				D3AE48FE2A0CBB7E00CF9B44 /* beauty.swift in Sources */,
+				D3AB0AA429F67B96005DFEB4 /* dpotp.swift in Sources */,
+				D3AB0A9F29F674A7005DFEB4 /* otpPage.swift in Sources */,
 				D362112029F2769D0053B57B /* AppDelegate.swift in Sources */,
 				D362112229F2769D0053B57B /* SceneDelegate.swift in Sources */,
+				D36AA10529F3BF5600806034 /* loginpage.swift in Sources */,
+				D3A7CE4F2A134915004599F7 /* CollectionViewCell1.swift in Sources */,
+				D3AAA2E52B42B3F100C317B7 /* mainPage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,6 +361,8 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
+				CODE_SIGN_ENTITLEMENTS = myntra/myntra.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -294,8 +370,10 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -303,6 +381,8 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.rnw.myntra;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -314,6 +394,8 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
+				CODE_SIGN_ENTITLEMENTS = myntra/myntra.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -321,8 +403,10 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -330,6 +414,8 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.rnw.myntra;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -358,6 +444,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		D3F6D7BF2A04D31300A1F4D8 /* XCRemoteSwiftPackageReference "DPOTPView" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Datt1994/DPOTPView.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		D3F6D7C02A04D31300A1F4D8 /* DPOTPView */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D3F6D7BF2A04D31300A1F4D8 /* XCRemoteSwiftPackageReference "DPOTPView" */;
+			productName = DPOTPView;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = D362111429F2769C0053B57B /* Project object */;
 }
